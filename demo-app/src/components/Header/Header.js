@@ -6,6 +6,7 @@ function Header() {
           <nav>
                 <div>Home</div>
                 <div>About</div>
+                <div>Info</div>
           </nav>l
       </div>
   )
