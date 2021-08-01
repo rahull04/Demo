@@ -6,6 +6,8 @@ function Footer() {
       <div>
           <div>Footer</div>
           <div>Contact no 9155685922</div>
+          <label htmlFor="text">text</label>
+          <input type="text"  />
           <Button title={'Contact Us'} clickHandler={()=>console.log('clicked')}  />
       </div>
   )
